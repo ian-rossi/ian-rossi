@@ -1,9 +1,9 @@
 # Welcome to my GitHub profile 👋
 
 <p align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contact@ianrossi.dev.br)
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ian-rossi)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5547992462779)
+  <a href="mailto:contact@ianrossi.dev.br"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://linkedin.com/in/ian-rossi"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
+  <a href="https://wa.me/5547992462779"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 
