@@ -41,7 +41,7 @@ topic:typescript topic:aws topic:aws-api-gateway
 - Testing Concepts
     - AAA (Arrange, Act, Assert) Pattern <img width="14px" heigth="14px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsF3PWxHCxIbPyvJB4T-i8AZu1U4nDYvaYw&s" alt="AAA (Arrange, Act, Assert) Pattern">
     - DDT (Data Driven Testing) <img src="https://cdn-icons-png.flaticon.com/256/8959/8959940.png" alt="DDT (Data Driven Testing)" width="14" height="14">
-    - FIRST (Fast, Isolated/Independent, Repeatable, Self-validating, Timely) principles <img width="14px" heigth="14px" src="https://qualysoft.com/download_file/view_inline/86209cb1-38a3-40e6-bd5a-b23d0aa5cf58" alt="FIRST (Fast, Isolated/Independent, Repeatable, Self-validating, Thorough) principles">
+    - FIRST (Fast, Isolated/Independent, Repeatable, Self-validating, Timely) principles <img width="14px" heigth="14px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8dgJCV18YK7ayHoBdYldd-54WEfuO0U1A09iFLy-yArUfjCBQZ8dBP3-6&s=10" alt="FIRST (Fast, Isolated/Independent, Repeatable, Self-validating, Thorough) principles">
     - Given-When-Then <img width="14px" heigth="14px" src="https://gweninterpreter.org/img/icon-feature.png" alt="Given-When-Then">
     - Page Objects <img width="14px" heigth="14px" src="https://miro.medium.com/v2/resize:fit:734/1*xPkpDVgrTB5o1km7SgnSLQ.png" alt="Page Objects">
 
@@ -50,7 +50,7 @@ topic:typescript topic:aws topic:aws-api-gateway
 - API Manager <img src="https://cdn-icons-png.flaticon.com/512/18033/18033092.png" alt="API Manager" width="14" height="14">
     - AWS API Gateway <img src="https://static-00.iconduck.com/assets.00/aws-api-gateway-icon-1696x2048-loojdmdv.png" alt="AWS API Gateway" width="14" height="14">
 - CI/CD <img src="https://www.mabl.com/hubfs/CICDBlog.png" alt="CI/CD" width="30" height="14">
-    - GitHub Actions <img src="https://images.seeklogo.com/logo-png/42/2/github-actions-logo-png_seeklogo-428028.png" alt="GitHub Actions" width="14" height="14">
+    - GitHub Actions <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="14" height="14">
     - GitLab CI <img src="https://gitlab.com/uploads/-/system/project/avatar/11674053/gitlab-ci-cd-logo_2x.png" alt="GitLab CI" width="14" height="14">
     - Jenkins <img src="https://img.icons8.com/?size=512&id=39292&format=png" alt="Jenkins" width="14" height="14">
 - Cloud Platform <img src="https://cdn-icons-png.flaticon.com/512/5395/5395370.png" alt="Cloud Platform" width="14" height="14">
