@@ -99,7 +99,7 @@ topic:typescript topic:aws topic:aws-api-gateway
         - MUI (Material UI) <img src="https://mui.com/static/logo.png" alt="Material UI" width="14" height="14">
         - Redux <img src="https://static-00.iconduck.com/assets.00/redux-icon-1024x971-2ocv6rm8.png" alt="Redux" width="14" height="14">
     - Spring Framework <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Framework" width="14" height="14">
-        - Spring Batch <img src="https://img.stackshare.io/service/9201/dbefbe0f6d93161f545994d3aff87775.png" alt="Spring Batch" width="14" height="14">
+        - Spring Batch <img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-batch-project.png" alt="Spring Batch" width="14" height="14">
         - Spring Boot
         - Spring Data JPA <img src="https://huongdanjava.com/wp-content/uploads/2022/02/spring-data.png" alt="Spring Data JPA" width="14" height="14">
         - Spring Data Redis
@@ -137,7 +137,7 @@ topic:typescript topic:aws topic:aws-api-gateway
 - Template engines
     - Apache Velocity <img src="https://quidgest.gallerycdn.vsassets.io/extensions/quidgest/vscode-velocity/1.0.9/1713791906557/Microsoft.VisualStudio.Services.Icons.Default" alt="Apache Velocity" width="14" height="14">
     - Mustache <img src="https://imgildev.gallerycdn.vsassets.io/extensions/imgildev/vscode-mustache-snippets/2.7.0/1738388682110/Microsoft.VisualStudio.Services.Icons.Default" alt="Mustache" width="14" height="14">
-    - Handlerbars <img src="https://handlebarsjs.com/handlebars-icon.svg" alt="Handlebars" width="14" height="14">
+    - Handlebars <img src="https://handlebarsjs.com/handlebars-icon.svg" alt="Handlebars" width="14" height="14">
 - Virtualization
     - Docker <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="20" height="17">
         - Docker Compose <img src="https://p1c2u.gallerycdn.vsassets.io/extensions/p1c2u/docker-compose/0.5.1/1697713277530/Microsoft.VisualStudio.Services.Icons.Default" alt="Docker Compose" width="14" height="14">
