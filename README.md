@@ -1,5 +1,12 @@
 # Welcome to my GitHub profile 👋
 
+<p align="center">
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contact@ianrossi.dev.br)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ian-rossi)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5547992462779)
+</p>
+
+
 # Technical skills
 
 **Obs.:**
@@ -64,13 +71,12 @@ topic:typescript topic:aws topic:aws-api-gateway
     - JavaScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="14" height="14">
     - Kotlin <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" alt="Kotlin" width="14" height="14">
     - Python <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="14" height="14">
-- TypeScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="14" height="14">
+    - TypeScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="14" height="14">
 - Data streaming <img src="https://cdn-icons-png.flaticon.com/512/16783/16783851.png" alt="Data streaming" width="14" height="14">
     - Kafka <img src="https://www.sentinelone.com/wp-content/uploads/2019/07/19130737/Kafka_use_cases_indicated_by_Kafka_logo_with_Scalyr_colors.png" alt="Apache Kafka" width="14" height="14">
 - Databases <img src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" alt="Databases" width="14" height="14">
     - NoSQL <img src="https://cpl.thalesgroup.com/sites/default/files/inline-images/nosql%20databases.png" alt="NoSQL" width="14" height="14">
         - DynamoDB <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-1817x2048-1gi0rqbm.png" alt="DynamoDB" width="14" height="14">
-        - MongoDB <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="14" height="14">
         - Redis <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis" width="14" height="14">
     - SQL <img src="https://cdn-icons-png.freepik.com/512/4248/4248443.png" alt="SQL" width="14" height="14">
         - PostgreSQL <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="14" height="14">
@@ -118,7 +124,7 @@ topic:typescript topic:aws topic:aws-api-gateway
     - Nginx <img src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" alt="Nginx" width="14" height="14">
 - Messaging <img src="https://cdn-icons-png.flaticon.com/512/3953/3953585.png" alt="Messaging" width="14" height="14">
     - AWS SQS (Simple Queue Service) <img src="https://static-00.iconduck.com/assets.00/aws-sqs-simple-queue-service-icon-848x1024-63h4ljvy.png" alt="AWS SQS (Simple Queue Service)" width="14" height="14">
-- RabbitMQ <img src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png" alt="RabbitMQ" width="14" height="14">
+    - RabbitMQ <img src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png" alt="RabbitMQ" width="14" height="14">
 - Operational Systems <img src="https://cdn-icons-png.flaticon.com/512/6303/6303082.png" alt="Operational Systems" width="14" height="14">
     - Linux <img src="https://raw.githubusercontent.com/github/explore/eb40fa94e4b686db568094600bb30065acce30c3/topics/linux/linux.png" alt="Linux" width="14" height="14">
 - ORM (Object-relational mapping) / ODM (Object-document mapping) <img src="https://cdn-icons-png.flaticon.com/512/2471/2471491.png" alt="ORM (Object-relational mapping) / ODM (Object-document mapping)" width="14" height="14">
@@ -138,7 +144,7 @@ topic:typescript topic:aws topic:aws-api-gateway
     - Apache Velocity <img src="https://quidgest.gallerycdn.vsassets.io/extensions/quidgest/vscode-velocity/1.0.9/1713791906557/Microsoft.VisualStudio.Services.Icons.Default" alt="Apache Velocity" width="14" height="14">
     - Mustache <img src="https://imgildev.gallerycdn.vsassets.io/extensions/imgildev/vscode-mustache-snippets/2.7.0/1738388682110/Microsoft.VisualStudio.Services.Icons.Default" alt="Mustache" width="14" height="14">
     - Handlebars <img src="https://handlebarsjs.com/handlebars-icon.svg" alt="Handlebars" width="14" height="14">
-- Virtualization
+- Virtualization <img src="https://cdn-icons-png.flaticon.com/512/17215/17215896.png" alt="Virtualization" width="14" height="14">
     - Docker <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="20" height="17">
         - Docker Compose <img src="https://p1c2u.gallerycdn.vsassets.io/extensions/p1c2u/docker-compose/0.5.1/1697713277530/Microsoft.VisualStudio.Services.Icons.Default" alt="Docker Compose" width="14" height="14">
     - Kubernetes (K8S) <img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="14" height="14">
