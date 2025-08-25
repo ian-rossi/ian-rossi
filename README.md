@@ -7,7 +7,7 @@
   <a href="https://wa.me/5547992462779"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
-Since 2021 impacting millions of lifes, developing software for the most diverse areas, dealing mostly with Spring Framework, Angular, AWS and Terraform. Currently allocated at Itaú Unibank, the biggest bank in LATAM, on the project [New Private Payroll Loan](https://www.itau.com.br/emprestimos-financiamentos/credito-do-trabalhador), expanding target public from 14MM account holders to 38MM. 
+Since 2021 impacting millions of lifes, developing software for the most diverse areas, dealing mostly with Spring Framework, Angular, AWS and Terraform. Currently allocated at McGrawHill, a leading global education company, migrating a monolith with critical routines to microservices. 
 
 # Technical skills
 
